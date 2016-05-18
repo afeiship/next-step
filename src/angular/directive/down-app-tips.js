@@ -33,15 +33,14 @@
       }
 
 
-      function _storage(inValue) {
-        if (inValue) {
-          localStorage.setItem('app-tips', true);
-        } else {
-          return localStorage.getItem('app-tips');
-        }
-      }
-
     }]);
 
-
+  /*@private@*/
+  function _storage(inValue) {
+    if (inValue) {
+      localStorage.setItem('app-tips', true);
+    } else {
+      return localStorage.getItem('app-tips');
+    }
+  }
 })();
