@@ -1,17 +1,17 @@
 {
-  "name": "angular-tabs",
-  "description": "Tabs directive based on angular & sass.",
-  "main": "dist/angular-tabs.js",
+  "name": "angular-down-app-tips",
+  "description": "AngularJS directive for APP download tips.",
+  "main": "dist",
   "authors": [
     "afei"
   ],
   "license": "MIT",
   "keywords": [
-    "tabs",
-    "tab",
+    "downapp",
+    "tips",
     "angular"
   ],
-  "homepage": "https://github.com/afeiship/angular-tabs",
+  "homepage": "https://github.com/afeiship/angular-down-app-tips",
   "moduleType": [
     "amd"
   ],

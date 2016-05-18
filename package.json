@@ -1,8 +1,8 @@
 {
-  "name": "angular-tabs",
+  "name": "angular-down-app-tips",
   "version": "1.0.0",
-  "description": "Tabs directive based on angular & sass.",
-  "homepage": "https://github.com/afeiship/angular-tabs",
+  "description": "AngularJS directive for APP download tips.",
+  "homepage": "https://github.com/afeiship/angular-down-app-tips",
   "author": {
     "name": "afei",
     "email": "1290657123@qq.com"
